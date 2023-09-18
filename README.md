@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @hudsonwg
-- 👀 I’m interested in experimental AI/Ethics building and simulating dynamic biological systems with computing
-- 🌱 I’m currently learning neural network applications with python
-- 💞️ I’m looking to collaborate on small random projects I work on in my spare time (love the feedback from more experienced coders!)
+- 🌱 I’m currently working on machine learning applications for signal processing
 - 📫 shoot me an email at hudson.w.goddard@gmail.com!
 
 <!---
