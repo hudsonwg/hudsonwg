@@ -1,4 +1,4 @@
-- Hi, I’m Hudson!
+- Hi, I’m Hudson
 - I’m currently working on ML systems for medical diagnosis and condition classification 
 - I plan to pursue a dual MD/PHD in order to provide patient care while conducting research in computational medicine
 
